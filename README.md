@@ -3,9 +3,9 @@ Texas schools geocoding project
 
 This is a class project by:
 
-Univeristy of Texas at Austin\\
-School of Journalism\\
-Data Visualization\\
+Univeristy of Texas at Austin\
+School of Journalism\
+Data Visualization\
 Spring 2015
 
 Instructor: Christian McDonald
