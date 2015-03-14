@@ -3,12 +3,11 @@ Texas schools geocoding project
 
 This is a class project by:
 
-Univeristy of Texas at Austin\
-School of Journalism\
-Data Visualization\
-Spring 2015
-
-Instructor: Christian McDonald
+    Univeristy of Texas at Austin
+    School of Journalism
+    Data Visualization
+    Spring 2015
+    Instructor: Christian McDonald
 
 We will create a geocoded list of every school in Texas that can be merged with data files from the Texas Education Agency for easy mapping.
 
