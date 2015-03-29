@@ -23,10 +23,15 @@ The students will be following [this guide](https://docs.google.com/document/d/1
 
 ## Geocoding
 
-We are using [Texas A&M Geoservices](http://geoservices.tamu.edu/) to batch geocode the files. It is a wonderful service that not only provides latitudes and longitudes for addresses, but gives a quality index of how the points were arrived at. This is essential to be sure that an address was found at street point instead of a city of zip code centroid. Their service is free for up to 2500 addresses a month. Or something like that. Check with them.
+We are using [Texas A&M Geoservices](http://geoservices.tamu.edu/) to batch geocode the files. It is a wonderful service that not only provides latitudes and longitudes for addresses, but gives a quality index of how the points were arrived at. This is essential to be sure that an address was found at street point instead of a city or zip code centroid. Their service is free for up to 2500 addresses a month. Or something like that. Check with them.
 
 [Geo-stuff provided by Texas A&M University GeoServices](http://geoservices.tamu.edu/)
 
 ## The plan
 
 Students will geocode their batch, clean up any zip/city level results and submit them for class credit. I will then combine all the files and post them to this repo.
+
+## class_files
+* `output_18_cm-out.csv` my file out of A&M
+* `output_18_cm-out.xlsx` all zip centriod updated
+
