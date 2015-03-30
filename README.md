@@ -34,4 +34,7 @@ Students will geocode their batch, clean up any zip/city level results and submi
 ## class_files
 * `output_18_cm-out.csv` my file out of A&M
 * `output_18_cm-out.xlsx` all zip centriod updated
+* `output_01_la_Geocoding.xlsx` output from Texas A&M but maybe not updated
+* `output_11_am_excel.xlsx` couldn't find 17 of list, they're highlighted
+* `output_14_et_geocoded.xlsx` yellow highlights couldn't be found
 
