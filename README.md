@@ -32,9 +32,13 @@ We are using [Texas A&M Geoservices](http://geoservices.tamu.edu/) to batch geoc
 Students will geocode their batch, clean up any zip/city level results and submit them for class credit. I will then combine all the files and post them to this repo.
 
 ## class_files
-* `output_18_cm-out.csv` my file out of A&M
-* `output_18_cm-out.xlsx` all zip centriod updated
-* `output_01_la_Geocoding.xlsx` output from Texas A&M but maybe not updated
-* `output_11_am_excel.xlsx` couldn't find 17 of list, they're highlighted
-* `output_14_et_geocoded.xlsx` yellow highlights couldn't be found
+
+Files back from students with the manual fixex before I process them into the single file. Some notes:
+
+* `output_01_la_geocoding.xlsx` output from geociding service, but maybe not updated
+* `output_11_am_geocoding.xlsx` couldn't find 17 of list, they're highlighted
+* `output_14_et_geocoding.xlsx` yellow highlights couldn't be found. Record 28 fix "KING"
+* `output_07_dg_geocoding.xls` Some of them I skipped, because they could not be found on the map. One school in particular does not open until the fall.
+* `output_10_wm_geocoding.xlsx` The schools I left without updating had problems either in that they were closed, the address was incorrect, or the address belonged to a different business.
+* `output_16_bw_geocoding.xlsx` Addresses could not be found for lines 256, 473, 487, 488, and 492.
 
