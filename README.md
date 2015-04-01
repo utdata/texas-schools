@@ -35,10 +35,29 @@ Students will geocode their batch, clean up any zip/city level results and submi
 
 Files back from students with the manual fixex before I process them into the single file. Some notes:
 
-* `output_01_la_geocoding.xlsx` output from geociding service, but maybe not updated
-* `output_11_am_geocoding.xlsx` couldn't find 17 of list, they're highlighted
-* `output_14_et_geocoding.xlsx` yellow highlights couldn't be found. Record 28 fix "KING"
-* `output_07_dg_geocoding.xls` Some of them I skipped, because they could not be found on the map. One school in particular does not open until the fall.
-* `output_10_wm_geocoding.xlsx` The schools I left without updating had problems either in that they were closed, the address was incorrect, or the address belonged to a different business.
-* `output_16_bw_geocoding.xlsx` Addresses could not be found for lines 256, 473, 487, 488, and 492.
+* `output_02_jb_geocoding` the columns are out of order.
+* `output_04_te_geocoding.xls` Not finished. There are still about 148 records that have not been updated.
+* `output_10_gm_geocoding.xlsx` columns in wrong order.
+* `output_11_am_geocoding.xlsx` columns out of order.
+* `output_12_rm_geocoding.xls` columns out of order
+
+Still need to do manzhi's file.
+
+1310 PRAIRIE STE 1080	HOUSTON (make all these unknown)
+
+
+
+Columns
+GeocodeQualityType: BK
+Latitude: BO
+Longitude: BP
+
+
+steps
+* check each file for problems and fix
+	* fix missing geocodes
+	* check for column order consistency
+* convert to csv
+* csv combine files skip first line
+* csvcut to remove unneeded columns
 
