@@ -36,7 +36,6 @@ Students will geocode their batch, clean up any zip/city level results and submi
 Files back from students with the manual fixex before I process them into the single file. Some notes:
 
 * `output_02_jb_geocoding` the columns are out of order.
-* `output_04_te_geocoding.xls` Not finished. There are still about 148 records that have not been updated.
 * `output_10_gm_geocoding.xlsx` columns in wrong order.
 * `output_11_am_geocoding.xlsx` columns out of order.
 * `output_12_rm_geocoding.xls` columns out of order
