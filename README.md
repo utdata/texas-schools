@@ -35,15 +35,20 @@ Students will geocode their batch, clean up any zip/city level results and submi
 
 Files back from students with the manual fixex before I process them into the single file. Some notes:
 
-* `output_02_jb_geocoding` the columns are out of order.
-* `output_10_gm_geocoding.xlsx` columns in wrong order.
-* `output_11_am_geocoding.xlsx` columns out of order.
-* `output_12_rm_geocoding.xls` columns out of order
+The following files had the columns out of order:
 
-Still need to do manzhi's file.
+* `output_02_jb_geocoding.xlsx`
+* `output_10_gm_geocoding.xlsx`
+* `output_11_am_geocoding.xlsx`
+* `output_12_rm_geocoding.xls`
 
-1310 PRAIRIE STE 1080	HOUSTON (make all these unknown)
+They are moved to the out-of-order folder where they are being processed separately.
 
+### Problems
+
+* one file `output_06_tf_geocoding.xlsx` has all the text numbers turned to real numbers. I've asked tf if there are earlier versions.
+
+* 1310 PRAIRIE STE 1080	HOUSTON (make all these unknown)
 
 
 Columns
@@ -59,4 +64,5 @@ steps
 * convert to csv
 * csv combine files skip first line
 * csvcut to remove unneeded columns
+* add notes in the readme about correctional facilites and other anomolies.
 
