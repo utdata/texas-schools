@@ -9,7 +9,9 @@ This is a class project by:
     Spring 2015
     Instructor: Christian McDonald
 
-We have created geocoded list of every school in Texas that can be merged with data files from the Texas Education Agency for easy mapping. The files are available for free use. If you do use, them, I'd love to know at christian.mcdonald@utexas.edu.
+STATUS: Testing and Cleanup. All addresses have been geocoded ... now we're spot-checking them on maps.
+
+We are creating a geocoded list of every school in Texas that can be merged with data files from the Texas Education Agency for easy mapping. The files are available for free use. If you do use, them, I'd love to know at christian.mcdonald@utexas.edu.
 
 The work was completed in April 2015.
 
