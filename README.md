@@ -19,7 +19,7 @@ You can use the Download Zip button to just download all the files, or do a [Sav
 
 There are three sets of addresses in the file: The district, the school mailing address and the school site address. The `Latitude` and `Longitude` fields are keyed to the `SchoolSiteAddress`.
 
-The magic comes with the `SchoolNumber` field, which is a unique ID that matches other school-level data by the [TEA data](http://tea.texas.gov/Reports_and_Data/). You can database queries and data visualization tools to join data sets on that `SchoolNumber` to map accountability ratings and performance reports.
+The magic comes with the `SchoolNumber` field, which is a unique ID that matches other school-level data by the [Texas Education Agency](http://tea.texas.gov/Reports_and_Data/). You can database queries and data visualization tools to join data sets on that `SchoolNumber` to map accountability ratings and performance reports.
 
 ## Caveats
 
