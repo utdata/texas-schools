@@ -17,7 +17,7 @@ The work was completed in April 2015.
 
 You can use the Download Zip button to just download all the files, or do a [Save As on this file](https://raw.githubusercontent.com/utdata/texas-schools/master/texas-schools-geocoded.csv) to get just the finished geocoded list, called `texas-schools-geocoded.csv`. It is 9354 rows of data. Feel free to fork this repo, update or improve the list and submit a pull request.
 
-There are three sets of addresses in the file: The district, the school mailing address and the school site address. The `Latitude` and `Longitude` fields are keyed to the `SchoolSiteAddress`.
+There are three sets of addresses in the file: The district, the school mailing address and the school site address. The `Latitude` and `Longitude` fields are keyed to the `SchoolSiteStreetAddress`.
 
 The magic comes with the `SchoolNumber` field, which is a unique ID that matches other school-level data by the [Texas Education Agency](http://tea.texas.gov/Reports_and_Data/). You can database queries and data visualization tools to join data sets on that `SchoolNumber` to map accountability ratings and performance reports.
 
