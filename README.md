@@ -14,7 +14,7 @@ We created a geocoded data set of all 9354 schools in Texas that can be merged w
 The work was completed in April 2015.
 
 ## Update July 2017
-- TEA has a file of these lat/longs that is probably a better source at this time: http://schoolsdata2-tea-texas.opendata.arcgis.com/
+- TEA has a file of these lat/longs that is probably a better source at this time: http://schoolsdata2-tea-texas.opendata.arcgis.com/, click on "Schools", then Download Spreadsheet.
 - And Common Core has all schools in the US: https://nces.ed.gov/ccd/pubschuniv.asp
 
 ## How to use this file
